@@ -1,0 +1,8 @@
+
+
+
+
+function ()
+{
+	consol.login("The function is running now");
+	}
